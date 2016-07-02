@@ -1,6 +1,6 @@
 <?php
-require_once "ezSQL/shared/ez_sql_core.php";
-require_once "ezSQL/mysqli/ez_sql_mysqli.php";
+require_once __DIR__ . "/ezSQL/shared/ez_sql_core.php";
+require_once __DIR__ . "/ezSQL/mysqli/ez_sql_mysqli.php";
 
 final class Mdb extends ezSQL_mysqli{
 
