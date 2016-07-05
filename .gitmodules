@@ -1,0 +1,3 @@
+[submodule "idiorm"]
+	path = idiorm
+	url = https://github.com/j4mie/idiorm
